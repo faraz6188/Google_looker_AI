@@ -1,0 +1,11 @@
+Customer_ID,Name,Email,Join_Date,Country,Subscription_Type
+C001,Alice Chen,alice@example.com,2023-01-15,USA,Premium
+C002,Raj Gupta,rajg@example.com,2023-02-10,India,Basic
+C003,Emma Brown,emma.b@example.com,2023-02-22,UK,Premium
+C004,Omar Aziz,omar.az@example.com,2023-03-05,UAE,Standard
+C005,Lina Wong,lina.w@example.com,2023-03-20,Singapore,Premium
+C006,Jack Lee,jack.l@example.com,2023-04-01,USA,Basic
+C007,Noor Khan,noork@example.com,2023-04-17,India,Premium
+C008,Sara Yilmaz,sara.y@example.com,2023-05-11,Turkey,Standard
+C009,Kevin Doe,kevin.d@example.com,2023-05-19,UK,Basic
+C010,Aisha Ali,aisha.a@example.com,2023-06-03,UAE,Premium 
